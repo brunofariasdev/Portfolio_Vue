@@ -42,8 +42,8 @@ export default {
 }
 </script>
 
-<style scoped>
-#container{
+<style scoped>      
+    #container{
         height: 100vh;
         display: flex;
         flex-direction: column;
@@ -67,9 +67,9 @@ export default {
     }
 
     h2{
-        color: rgb(179, 178, 178);
+        color: #ffffff;
         font-size: 1rem;
-        font-weight: 100;
+        font-weight: bold;
     }
 
     #profile a i{
@@ -123,10 +123,24 @@ export default {
         font-size: 1.6rem;
     }
     .link-container{
-        border-radius: 1rem;
-        width: 6rem;
-        background-color: tomato;
-
+        cursor: pointer;
+        border-radius: 3rem;
+        margin: 1rem 0;
+        width: 8rem;
+        height: 2.4rem;
+        background-color: rgb(255, 255, 255);
+        font-size: 1.2rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #0A2463;
+    }
+    .link-container:hover{
+        background: #e6e5e5;
+    }
+    .side-btn{
+        background:none;
+        border: none;
     }
 
 

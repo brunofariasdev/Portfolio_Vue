@@ -30,6 +30,9 @@ export default {
         width: 100%;
         height: 100%;
     }
+    #skills h1{
+        color: #0A2463;
+    }
     #skills li{
         list-style: none;
     }
