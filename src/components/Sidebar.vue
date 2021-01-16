@@ -1,7 +1,7 @@
 <template>
     <div id="container">
         <div id="profile">
-            <img  src="https://brunofarias.net/src/perfil.jpg" alt="Profile">
+            <img  src="../assets/perfil.jpg" alt="Profile">
             <h1>Bruno Farias</h1>
             <h2>Front-End Developer</h2>
             <p>Cada sonho que você deixa para trás,é um pedaço do seu futuro que deixa de existir.<br> <span>Jamais Desista</span></p>
@@ -123,6 +123,7 @@ export default {
         font-size: 1.6rem;
     }
     .link-container{
+        outline: none;
         cursor: pointer;
         border-radius: 3rem;
         margin: 1rem 0;

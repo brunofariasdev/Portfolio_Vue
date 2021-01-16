@@ -1,6 +1,7 @@
 <template>
     <div id="skills">
             <h1>Minhas Skills</h1>
+            <img src="../assets/code.svg" alt="code">
             <li>
                 <i class="fab fa-html5"></i>
                 <i class="fab fa-css3-alt"></i>
@@ -38,11 +39,15 @@ export default {
     }
     #skills li i{
         font-size: 4rem;
-        color: #008080;
+        color: #0A2463;
         padding: .7rem;
         cursor: pointer;
     }
     #skills li i:hover{
-        color: #029696;
+        color: #0a2a75d3;
+    }
+    #skills img{
+        height: 11rem;
+        padding: 1rem;
     }
 </style>
