@@ -5,15 +5,12 @@
             <img id="img-perfil" src="../assets/about.svg" alt="About">
             <h3>Olá meu nome e Bruno, desenvolvedor Front-end tenho 20 anos moro em Delta-MG, 
             <br> amo tecnologia e programação me apaixonei pelo front-end em 2018 e deis de então<br>
-             iniciei minha jornada em busca de me tonar um desenvolvedor front-end,hoje uso<br> 
-             VueJs e NextJS para desenvolver minhas aplicações,procuro me manter sempre atualizado<br>
+             iniciei minha jornada em busca de me tornar um desenvolvedor front-end, hoje uso<br> 
+             VueJs e NextJS para desenvolver minhas aplicações, procuro me manter sempre atualizado<br>
              sobre tudo do mundo front-end, como um bom  amante de javascript tento sempre melhorar o<br>  
              meu código tentando deixá-lo cada vez mais limpo e legível.</h3>
         </div>
        
-        
-
-
     </div>
 </template>
 

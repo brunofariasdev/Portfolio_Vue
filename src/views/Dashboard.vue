@@ -2,7 +2,7 @@
     <div class="dashboard">
         <Sidebar/>
         <div class="content">
-            <router-view/>
+            <router-view />
         </div>
     </div>
 </template>
@@ -25,11 +25,13 @@ export default {
     background-color: #0A2463;
     height: 100vh;
     width: 100vw;
+    overflow-y: hidden;
 }
 
 .content {
     background-color: white;
     border-radius: 10px;
     margin: 6px 6px 6px 0px;
+    overflow-y: auto;
 }
 </style>

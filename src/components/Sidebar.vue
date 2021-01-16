@@ -134,10 +134,16 @@ export default {
         display: flex;
         align-items: center;
         justify-content: center;
-        color: #0A2463;
+        color: #0A2463;  
     }
     .link-container:hover{
         background: #e6e5e5;
+    }
+    .link-container:focus{
+        outline: none;
+    }
+    .link-container.active{
+        background-color: aqua;
     }
     .side-btn{
         background:none;
