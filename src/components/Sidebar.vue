@@ -1,7 +1,7 @@
 <template>
     <div id="container">
         <div id="profile">
-            <img  src="../assets/perfil.jpg" alt="Profile">
+            <img  src="https://avatars1.githubusercontent.com/u/64233765?s=400&u=c460bdb026698732a212a70d48eefa162aef1c00&v=4" alt="Profile">
             <h1>Bruno Farias</h1>
             <h2>Front-End Developer</h2>
             <p>Cada sonho que você deixa para trás,é um pedaço do seu futuro que deixa de existir.<br> <span>Jamais Desista</span></p>
