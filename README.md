@@ -1,5 +1,3 @@
-# youtubesidebar
-
 ## Project setup
 ```
 npm install
